@@ -28,6 +28,7 @@ Sou estudante de Ciência da Computação e desenvolvedor Fullstack Freelancer, 
     <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
     <img alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />  
+    <img alt="Lumen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lumen/lumen-original.svg" />
 </div>
     
   
