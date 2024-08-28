@@ -30,7 +30,7 @@ Sou estudante de Ciência da Computação e desenvolvedor Fullstack Freelancer, 
     <img alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />  
     <img alt="Lumen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lumen/lumen-original.svg" />
     <img alt="Express"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-    <img alt="Next"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg">
+    <img alt="Next"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 </div>
     
   
