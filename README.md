@@ -1,10 +1,15 @@
 ### Olá Pessoal, me chamo Júlio Paulo !!👋
 
-Sou estudante de Ciência da Computação e desenvolvedor Fullstack Freelancer, mandando bem tanto no Back-End quanto no Front-End. Quando não estou codando, sou entusiasta de Airsoft e fã de games de PC – se você também curte, vamos trocar uma ideia!
+👨‍💻 Desenvolvedor Fullstack | Graduado em Ciência da Computação
 
-💻 Tenho um conhecimento sólido em PHP e estou mergulhando fundo no mundo do Java, a linguagem que me conquistou desde o início da faculdade. Meu grande objetivo? Me tornar um verdadeiro mestre Jedi do desenvolvimento Java! 🚀
+Sou apaixonado por tecnologia e desenvolvimento, mandando bem tanto no Back-End quanto no Front-End. Meu foco principal está em PHP e Java, essa última me conquistou desde os tempos de faculdade e, acredite, sigo firme no caminho para me tornar um mestre Jedi no assunto! 🚀
 
-- 💻 Ciência da Computação | Faculdade dos Guararapes
+Atualmente, estou focado nas tecnologias que utilizo no meu dia a dia de trabalho, sempre aprendendo e evoluindo. Ah, e quando não estou codando, curto um bom Airsoft e sou fã de games de PC – se você também gosta, bora trocar uma ideia!
+
+🎓 Ciência da Computação | Faculdade dos Guararapes – Formadoooooo! 🎉
+💡 Sempre aberto a novas conexões, desafios e aprendizados.
+
+Se quiser bater um papo sobre tecnologia (ou games!), me chama! 🚀
 
 <div align="center">
   <a href="https://github.com/JPFerreira96">
