@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia e desenvolvimento, mandando bem tanto no Back-End 
 
 Atualmente, estou focado nas tecnologias que utilizo no meu dia a dia de trabalho, sempre aprendendo e evoluindo. Ah, e quando não estou codando, curto um bom Airsoft e sou fã de games de PC – se você também gosta, bora trocar uma ideia!
 
-🎓 Ciência da Computação | Faculdade dos Guararapes – Formadoooooo! 🎉
+🎓 Ciência da Computação | Faculdade dos Guararapes – Formadoooooo! 🎉 </br>
 💡 Sempre aberto a novas conexões, desafios e aprendizados.
 
 Se quiser bater um papo sobre tecnologia (ou games!), me chama! 🚀
