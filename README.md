@@ -36,6 +36,7 @@ Se quiser bater um papo sobre tecnologia (ou games!), me chama! 🚀
     <img alt="Lumen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lumen/lumen-original.svg" />
     <img alt="Express"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
     <img alt="Next"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+    <img alt="Spring-Boot"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 </div>
     
   
